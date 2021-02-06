@@ -35,5 +35,12 @@ using System.Threading.Tasks;<br>
 using System.Windows.Forms;<br>
 using Microsoft.Win32;</br></p>
 
+<P>[ CP Form 1.0.0.2버전 ]</br>
+using System;<br>
+using System.Drawing;<br>
+using System.Drawing.Drawing2D;<br>
+using System.Drawing.Imaging;<br>
+using System.Media;<br>
+using System.Windows.Forms;</br></p>
 <h2>프리캠 사용 방법</h2>
 
