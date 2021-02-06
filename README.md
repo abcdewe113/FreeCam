@@ -22,5 +22,18 @@ using System.Text;<br>
 using System.Threading.Tasks;<br>
 using System.Windows.Forms;</br></P>
 
+<p>Setting Form 1.0.0.2버전<br>
+using System;<br>
+using System.Collections.Generic;<br>
+using System.ComponentModel;<br>
+using System.Data;<br>
+using System.Drawing;<br>
+using System.Linq;<br>
+using System.Reflection;<br>
+using System.Text;<br>
+using System.Threading.Tasks;<br>
+using System.Windows.Forms;<br>
+using Microsoft.Win32;</br></p>
+
 <h2>프리캠 사용 방법</h2>
 
