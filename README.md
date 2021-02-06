@@ -10,7 +10,7 @@
 <h2>사용한 라이브러리들 및 참조</h2>
 
 <h2>사용한 선언문</h2>
-<P>Main Form 1.0.0.2버전</p>
+<P>[ Main Form 1.0.0.2버전 ]</p>
 <p>using System;<br>
 using System.Collections.Generic;<br>
 using System.ComponentModel;<br>
@@ -22,8 +22,7 @@ using System.Text;<br>
 using System.Threading.Tasks;<br>
 using System.Windows.Forms;</br></P>
 
-<p>Setting Form 1.0.0.2버전<br>
-<br>
+<p>[ Setting Form 1.0.0.2버전 ]<br>
 using System;<br>
 using System.Collections.Generic;<br>
 using System.ComponentModel;<br>
